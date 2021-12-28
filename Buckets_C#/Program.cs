@@ -63,14 +63,7 @@ while (b5 != 4){
 
 
 } 
-// while (bucket_5 != 4){
 
-
-// }
-// Console.WriteLine(bucket_3 + bucket_5);
-// if (bucket_3 == 0){
-//     Console.WriteLine(bucket_3 + "is 0");
-// }
 Console.WriteLine("b5 = " + Convert.ToString(b5) + " b3 = " + Convert.ToString(b3));
 Console.WriteLine("You win!");
 Console.ReadKey();

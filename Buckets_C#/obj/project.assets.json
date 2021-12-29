@@ -13,19 +13,21 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\test1\\visual studio projects\\Helloworld\\Helloworld.csproj",
+      "projectUniqueName": "C:\\Users\\test1\\source\\repos\\Buckets_Cs\\Buckets_C#\\Helloworld.csproj",
       "projectName": "Helloworld",
-      "projectPath": "C:\\Users\\test1\\visual studio projects\\Helloworld\\Helloworld.csproj",
+      "projectPath": "C:\\Users\\test1\\source\\repos\\Buckets_Cs\\Buckets_C#\\Helloworld.csproj",
       "packagesPath": "C:\\Users\\test1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\test1\\visual studio projects\\Helloworld\\obj\\",
+      "outputPath": "C:\\Users\\test1\\source\\repos\\Buckets_Cs\\Buckets_C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\test1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\test1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
